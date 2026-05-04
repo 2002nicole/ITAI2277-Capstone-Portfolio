@@ -6,7 +6,13 @@ This repository is an individual portfolio of selected work from ITAI 2277: Arti
 
 My strongest project contribution this semester was the DrugBank data engineering component for **CompoundIQ**, a group capstone project focused on AI-powered safe 3-drug combination discovery.
 
-CompoundIQ was a **team project**. I am not presenting the full system as individual work. My individual contribution focused on preparing the DrugBank data used to support downstream drug-interaction modeling.
+CompoundIQ was a **team project**. I am not presenting the full system as individual work. My individual contribution focused on preparing the DrugBank data used to support downstream drug-interaction modeling as well as presentations.
+
+The full group repository is available here:
+
+https://github.com/ComfortCS50/CompoundIQ
+
+Please note: the full repository includes contributions from multiple team members.
 
 ## My Main Contributions
 
@@ -21,35 +27,35 @@ CompoundIQ was a **team project**. I am not presenting the full system as indivi
 ## Repository Structure
 
 ```text
-ai-applications-portfolio-itai2277/
+ITAI2277-Capstone-Portfolio/
 ├── README.md
 ├── .gitignore
-├── GITHUB_UPLOAD_INSTRUCTIONS.md
-├── projects/
-│   └── compoundiq-drugbank-contribution/
-│       ├── README.md
-│       ├── notebooks/
-│       │   └── DrugBank_Feature_Engineering_Nicole.ipynb
-│       ├── presentations/
-│       │   └── Group2_Phase2_Data_Pipeline_EDA.pdf
-│       └── phase-summaries/
-│           ├── phase-1-summary.md
-│           ├── phase-2-summary.md
-│           ├── phase-3-summary.md
-│           ├── phase-4-summary.md
-│           └── phase-5-summary.md
+│
 ├── notes/
 │   ├── applied-ai-skills.md
 │   ├── drugbank-feature-engineering-notes.md
 │   └── responsible-ai-notes.md
-├── resources/
-│   └── important-resources.md
+│
+├── phase-summaries/
+│   ├── CompoundIQ_Phase_Summaries_ITAI_2277.pdf
+│   ├── phase-1-summary.md
+│   ├── phase-2-summary.md
+│   ├── phase-3-summary.md
+│   ├── phase-4-summary.md
+│   └── phase-5-summary.md
+│
 ├── portfolio-presentation/
-│   ├── Pf_NicoleMarcial_ITAI_2277.pdf
-│   └── Pf_NicoleMarcial_ITAI_2277.pptx
-└── optional-presentations/
-    ├── CompoundIQ_Phase_Summaries_Portfolio.pdf
-    └── CompoundIQ_Phase_Summaries_Portfolio.pptx
+│   └── Portfolio_NicoleMarcial_ITAI_2277.pdf
+│
+├── projects/
+│   └── compoundiq-drugbank-contribution/
+│       ├── README.md
+│       ├── DrugBank_Analysis_ITAI_2277.pdf
+│       ├── DrugBank_ITAI_2277.ipynb
+│       └── CompoundIQ_FinalGroupPresentation_ITAI_2277.pdf
+│
+└── resources/
+    └── important-resources.md
 ```
 
 ## Technical Skills Demonstrated
