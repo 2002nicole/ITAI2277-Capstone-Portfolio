@@ -37,12 +37,7 @@ ITAI2277-Capstone-Portfolio/
 │   └── responsible-ai-notes.md
 │
 ├── phase-summaries/
-│   ├── CompoundIQ_Phase_Summaries_ITAI_2277.pdf
-│   ├── phase-1-summary.md
-│   ├── phase-2-summary.md
-│   ├── phase-3-summary.md
-│   ├── phase-4-summary.md
-│   └── phase-5-summary.md
+│   └──  CompoundIQ_Phase_Summaries_ITAI_2277.pdf
 │
 ├── portfolio-presentation/
 │   └── Portfolio_NicoleMarcial_ITAI_2277.pdf
@@ -52,7 +47,8 @@ ITAI2277-Capstone-Portfolio/
 │       ├── README.md
 │       ├── DrugBank_Analysis_ITAI_2277.pdf
 │       ├── DrugBank_ITAI_2277.ipynb
-│       └── CompoundIQ_FinalGroupPresentation_ITAI_2277.pdf
+│       └── group-final-presentation/
+│           └──CompoundIQ_FinalGroupPresentation_ITAI_2277.pdf
 │
 └── resources/
     └── important-resources.md
