@@ -27,22 +27,6 @@ Key tasks included:
 
 To understand how my part connected to the full capstone pipeline, I also reviewed team notebooks that I did not personally build, especially the broader EDA notebook. This helped me understand how DrugBank features connected with ChEMBL, SIDER, STITCH, BioBERT, JT-VAE, and GNN components.
 
-## Included Files
-
-```text
-compoundiq-drugbank-contribution/
-├── README.md
-├── notebooks/
-│   └── DrugBank_Feature_Engineering_Nicole.ipynb
-├── presentations/
-│   └── Group2_Phase2_Data_Pipeline_EDA.pdf
-└── phase-summaries/
-    ├── phase-1-summary.md
-    ├── phase-2-summary.md
-    ├── phase-3-summary.md
-    ├── phase-4-summary.md
-    └── phase-5-summary.md
-```
 
 ## Why Only Some Team Files Are Included
 
